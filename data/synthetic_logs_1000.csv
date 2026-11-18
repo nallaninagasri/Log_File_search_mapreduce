@@ -1,0 +1,1001 @@
+record_id,timestamp,level,service,message,synthetic_data
+1,2026-11-01 23:17:00,WARNING,database,High memory usage,YES
+2,2026-11-04 21:47:00,INFO,web,Backup completed,YES
+3,2026-11-03 06:14:00,INFO,web,User logged in,YES
+4,2026-11-18 13:14:00,WARNING,authentication,Slow response detected,YES
+5,2026-11-01 05:44:00,INFO,authentication,Request completed,YES
+6,2026-11-07 10:06:00,INFO,web,Backup completed,YES
+7,2026-11-12 19:16:00,INFO,web,Backup completed,YES
+8,2026-11-13 02:35:00,INFO,payment,Request completed,YES
+9,2026-11-03 01:42:00,WARNING,database,CPU usage is high,YES
+10,2026-11-08 03:24:00,ERROR,payment,Authentication failed,YES
+11,2026-11-12 05:23:00,WARNING,payment,High memory usage,YES
+12,2026-11-03 19:40:00,WARNING,database,Slow response detected,YES
+13,2026-11-06 14:24:00,WARNING,payment,Slow response detected,YES
+14,2026-11-08 21:20:00,WARNING,web,High memory usage,YES
+15,2026-11-11 12:17:00,ERROR,web,Payment processing failed,YES
+16,2026-11-11 06:41:00,ERROR,authentication,Authentication failed,YES
+17,2026-11-15 04:16:00,ERROR,database,Payment processing failed,YES
+18,2026-11-18 08:47:00,WARNING,authentication,Slow response detected,YES
+19,2026-11-08 04:32:00,INFO,authentication,Server started,YES
+20,2026-11-04 04:40:00,ERROR,database,Authentication failed,YES
+21,2026-11-13 12:38:00,WARNING,authentication,Slow response detected,YES
+22,2026-11-18 00:43:00,INFO,web,Request completed,YES
+23,2026-11-11 03:18:00,ERROR,authentication,Payment processing failed,YES
+24,2026-11-09 16:48:00,INFO,database,Server started,YES
+25,2026-11-10 20:32:00,ERROR,database,Payment processing failed,YES
+26,2026-11-06 17:49:00,INFO,web,Request completed,YES
+27,2026-11-04 11:56:00,INFO,payment,User logged in,YES
+28,2026-11-03 02:46:00,INFO,authentication,Server started,YES
+29,2026-11-18 04:08:00,ERROR,authentication,Payment processing failed,YES
+30,2026-11-14 06:59:00,INFO,database,Request completed,YES
+31,2026-11-12 14:57:00,INFO,authentication,Server started,YES
+32,2026-11-03 10:01:00,INFO,database,User logged in,YES
+33,2026-11-02 07:04:00,INFO,web,Request completed,YES
+34,2026-11-08 08:42:00,INFO,authentication,User logged in,YES
+35,2026-11-16 07:50:00,INFO,authentication,Backup completed,YES
+36,2026-11-04 21:27:00,INFO,payment,Backup completed,YES
+37,2026-11-02 21:41:00,INFO,web,Server started,YES
+38,2026-11-11 03:15:00,INFO,database,User logged in,YES
+39,2026-11-05 13:11:00,INFO,payment,Backup completed,YES
+40,2026-11-03 14:51:00,INFO,web,Server started,YES
+41,2026-11-18 00:05:00,WARNING,database,High memory usage,YES
+42,2026-11-16 06:55:00,INFO,authentication,Server started,YES
+43,2026-11-01 12:16:00,INFO,authentication,Request completed,YES
+44,2026-11-18 21:45:00,INFO,authentication,User logged in,YES
+45,2026-11-07 01:37:00,INFO,web,Request completed,YES
+46,2026-11-16 16:58:00,INFO,database,Server started,YES
+47,2026-11-03 05:04:00,ERROR,web,Payment processing failed,YES
+48,2026-11-08 18:38:00,INFO,web,Server started,YES
+49,2026-11-17 10:59:00,INFO,payment,User logged in,YES
+50,2026-11-11 07:16:00,WARNING,authentication,High memory usage,YES
+51,2026-11-10 14:20:00,WARNING,web,High memory usage,YES
+52,2026-11-04 02:34:00,INFO,database,Request completed,YES
+53,2026-11-12 02:56:00,INFO,database,Request completed,YES
+54,2026-11-15 17:45:00,INFO,payment,Server started,YES
+55,2026-11-18 09:59:00,WARNING,web,High memory usage,YES
+56,2026-11-04 23:35:00,INFO,database,Request completed,YES
+57,2026-11-07 22:21:00,INFO,database,Request completed,YES
+58,2026-11-09 01:05:00,INFO,authentication,Request completed,YES
+59,2026-11-11 04:40:00,INFO,payment,User logged in,YES
+60,2026-11-18 22:27:00,WARNING,web,High memory usage,YES
+61,2026-11-05 17:02:00,INFO,payment,User logged in,YES
+62,2026-11-02 09:23:00,INFO,web,Request completed,YES
+63,2026-11-08 21:06:00,INFO,payment,Backup completed,YES
+64,2026-11-05 07:55:00,ERROR,database,Payment processing failed,YES
+65,2026-11-01 05:47:00,ERROR,payment,Authentication failed,YES
+66,2026-11-08 08:10:00,ERROR,web,Authentication failed,YES
+67,2026-11-16 07:12:00,ERROR,authentication,File not found,YES
+68,2026-11-08 07:01:00,INFO,database,Backup completed,YES
+69,2026-11-03 08:22:00,INFO,authentication,Request completed,YES
+70,2026-11-04 08:11:00,ERROR,payment,Database connection failed,YES
+71,2026-11-14 11:46:00,INFO,payment,Backup completed,YES
+72,2026-11-17 03:24:00,WARNING,database,CPU usage is high,YES
+73,2026-11-14 00:33:00,INFO,database,Request completed,YES
+74,2026-11-11 19:20:00,INFO,web,Request completed,YES
+75,2026-11-14 10:25:00,INFO,payment,User logged in,YES
+76,2026-11-13 21:47:00,INFO,database,Request completed,YES
+77,2026-11-01 09:18:00,INFO,database,Backup completed,YES
+78,2026-11-11 14:28:00,ERROR,authentication,Payment processing failed,YES
+79,2026-11-06 21:05:00,INFO,payment,Request completed,YES
+80,2026-11-08 21:19:00,INFO,database,User logged in,YES
+81,2026-11-02 07:30:00,INFO,web,Backup completed,YES
+82,2026-11-07 22:44:00,INFO,authentication,Backup completed,YES
+83,2026-11-05 20:44:00,INFO,web,Server started,YES
+84,2026-11-08 05:51:00,ERROR,authentication,Database connection failed,YES
+85,2026-11-04 14:08:00,WARNING,authentication,Slow response detected,YES
+86,2026-11-18 19:20:00,INFO,authentication,Backup completed,YES
+87,2026-11-18 14:57:00,ERROR,database,Authentication failed,YES
+88,2026-11-08 20:17:00,INFO,authentication,User logged in,YES
+89,2026-11-03 22:18:00,INFO,database,Request completed,YES
+90,2026-11-18 02:08:00,INFO,database,User logged in,YES
+91,2026-11-05 22:13:00,INFO,web,Backup completed,YES
+92,2026-11-18 14:26:00,INFO,web,User logged in,YES
+93,2026-11-13 18:44:00,ERROR,web,Authentication failed,YES
+94,2026-11-12 09:48:00,INFO,authentication,Backup completed,YES
+95,2026-11-18 19:57:00,INFO,database,Backup completed,YES
+96,2026-11-14 15:01:00,INFO,authentication,Request completed,YES
+97,2026-11-13 23:10:00,WARNING,authentication,High memory usage,YES
+98,2026-11-18 00:58:00,ERROR,authentication,Database connection failed,YES
+99,2026-11-14 04:55:00,INFO,authentication,User logged in,YES
+100,2026-11-13 10:13:00,INFO,authentication,Request completed,YES
+101,2026-11-13 08:48:00,INFO,authentication,Request completed,YES
+102,2026-11-16 00:47:00,ERROR,web,File not found,YES
+103,2026-11-03 20:02:00,INFO,web,User logged in,YES
+104,2026-11-01 19:09:00,INFO,database,User logged in,YES
+105,2026-11-04 18:13:00,INFO,authentication,Request completed,YES
+106,2026-11-06 19:38:00,ERROR,web,Payment processing failed,YES
+107,2026-11-04 18:01:00,ERROR,payment,Authentication failed,YES
+108,2026-11-07 02:37:00,INFO,database,Server started,YES
+109,2026-11-10 21:38:00,WARNING,web,Slow response detected,YES
+110,2026-11-12 17:27:00,ERROR,payment,Database connection failed,YES
+111,2026-11-11 00:54:00,INFO,authentication,Backup completed,YES
+112,2026-11-12 20:57:00,INFO,authentication,User logged in,YES
+113,2026-11-17 20:17:00,INFO,authentication,Backup completed,YES
+114,2026-11-09 10:54:00,INFO,database,Server started,YES
+115,2026-11-15 07:48:00,INFO,authentication,Backup completed,YES
+116,2026-11-16 10:11:00,INFO,authentication,User logged in,YES
+117,2026-11-09 10:17:00,INFO,payment,Server started,YES
+118,2026-11-07 02:15:00,INFO,authentication,Backup completed,YES
+119,2026-11-08 22:30:00,WARNING,authentication,CPU usage is high,YES
+120,2026-11-03 09:14:00,ERROR,authentication,Payment processing failed,YES
+121,2026-11-12 15:35:00,INFO,payment,Backup completed,YES
+122,2026-11-18 10:22:00,ERROR,authentication,File not found,YES
+123,2026-11-08 03:46:00,INFO,database,Request completed,YES
+124,2026-11-18 22:11:00,INFO,database,User logged in,YES
+125,2026-11-09 23:37:00,WARNING,payment,High memory usage,YES
+126,2026-11-10 07:23:00,ERROR,database,File not found,YES
+127,2026-11-18 04:17:00,INFO,web,Server started,YES
+128,2026-11-05 20:55:00,WARNING,authentication,High memory usage,YES
+129,2026-11-10 15:30:00,ERROR,authentication,File not found,YES
+130,2026-11-02 08:55:00,INFO,authentication,Server started,YES
+131,2026-11-13 15:04:00,ERROR,web,Payment processing failed,YES
+132,2026-11-10 02:15:00,INFO,web,Backup completed,YES
+133,2026-11-08 16:24:00,WARNING,authentication,CPU usage is high,YES
+134,2026-11-14 09:36:00,INFO,web,Server started,YES
+135,2026-11-07 20:13:00,ERROR,payment,Database connection failed,YES
+136,2026-11-06 17:04:00,INFO,database,Server started,YES
+137,2026-11-16 09:02:00,INFO,database,Request completed,YES
+138,2026-11-15 02:43:00,WARNING,database,CPU usage is high,YES
+139,2026-11-07 13:07:00,ERROR,database,Payment processing failed,YES
+140,2026-11-05 02:03:00,ERROR,database,File not found,YES
+141,2026-11-10 14:07:00,WARNING,authentication,Slow response detected,YES
+142,2026-11-13 08:32:00,INFO,authentication,Backup completed,YES
+143,2026-11-02 13:47:00,INFO,payment,Request completed,YES
+144,2026-11-08 21:53:00,INFO,web,Request completed,YES
+145,2026-11-06 15:33:00,WARNING,authentication,CPU usage is high,YES
+146,2026-11-14 20:52:00,INFO,authentication,Server started,YES
+147,2026-11-14 10:20:00,INFO,web,User logged in,YES
+148,2026-11-16 09:42:00,INFO,authentication,Server started,YES
+149,2026-11-11 08:20:00,INFO,web,Backup completed,YES
+150,2026-11-01 21:55:00,ERROR,authentication,Authentication failed,YES
+151,2026-11-17 11:39:00,INFO,authentication,Backup completed,YES
+152,2026-11-07 08:35:00,ERROR,database,File not found,YES
+153,2026-11-16 03:01:00,INFO,database,User logged in,YES
+154,2026-11-01 17:26:00,INFO,web,User logged in,YES
+155,2026-11-04 14:07:00,ERROR,database,Authentication failed,YES
+156,2026-11-10 16:45:00,ERROR,payment,Authentication failed,YES
+157,2026-11-16 07:29:00,ERROR,database,Authentication failed,YES
+158,2026-11-17 23:56:00,INFO,database,Server started,YES
+159,2026-11-14 10:59:00,INFO,payment,Server started,YES
+160,2026-11-10 18:37:00,INFO,authentication,User logged in,YES
+161,2026-11-16 11:21:00,INFO,authentication,Backup completed,YES
+162,2026-11-07 22:15:00,ERROR,authentication,Payment processing failed,YES
+163,2026-11-14 01:20:00,ERROR,authentication,Authentication failed,YES
+164,2026-11-05 15:02:00,INFO,database,Request completed,YES
+165,2026-11-15 03:33:00,ERROR,authentication,Database connection failed,YES
+166,2026-11-14 20:09:00,WARNING,web,CPU usage is high,YES
+167,2026-11-09 10:39:00,ERROR,authentication,Database connection failed,YES
+168,2026-11-18 12:20:00,ERROR,authentication,Database connection failed,YES
+169,2026-11-08 20:43:00,WARNING,payment,High memory usage,YES
+170,2026-11-14 03:48:00,WARNING,web,CPU usage is high,YES
+171,2026-11-10 00:02:00,INFO,payment,Server started,YES
+172,2026-11-12 13:09:00,INFO,database,Backup completed,YES
+173,2026-11-06 05:11:00,WARNING,web,Slow response detected,YES
+174,2026-11-08 15:58:00,ERROR,database,Payment processing failed,YES
+175,2026-11-09 14:16:00,INFO,web,Backup completed,YES
+176,2026-11-18 05:04:00,ERROR,authentication,File not found,YES
+177,2026-11-10 20:27:00,ERROR,payment,Authentication failed,YES
+178,2026-11-07 12:54:00,ERROR,authentication,Database connection failed,YES
+179,2026-11-12 18:18:00,INFO,payment,Server started,YES
+180,2026-11-13 08:00:00,ERROR,web,Authentication failed,YES
+181,2026-11-10 07:38:00,ERROR,payment,Payment processing failed,YES
+182,2026-11-09 21:48:00,WARNING,database,Slow response detected,YES
+183,2026-11-02 09:50:00,INFO,authentication,Server started,YES
+184,2026-11-05 02:58:00,WARNING,payment,CPU usage is high,YES
+185,2026-11-06 06:08:00,WARNING,payment,Slow response detected,YES
+186,2026-11-09 05:16:00,INFO,authentication,Request completed,YES
+187,2026-11-11 03:29:00,WARNING,web,High memory usage,YES
+188,2026-11-08 21:46:00,ERROR,authentication,File not found,YES
+189,2026-11-13 00:16:00,INFO,web,Backup completed,YES
+190,2026-11-09 18:24:00,INFO,payment,Server started,YES
+191,2026-11-16 00:39:00,WARNING,payment,Slow response detected,YES
+192,2026-11-03 20:52:00,INFO,authentication,Request completed,YES
+193,2026-11-04 04:02:00,WARNING,web,CPU usage is high,YES
+194,2026-11-04 03:15:00,ERROR,database,Authentication failed,YES
+195,2026-11-18 13:37:00,INFO,database,Backup completed,YES
+196,2026-11-16 19:26:00,WARNING,payment,High memory usage,YES
+197,2026-11-07 14:28:00,WARNING,database,CPU usage is high,YES
+198,2026-11-12 17:57:00,INFO,payment,Server started,YES
+199,2026-11-07 03:54:00,INFO,authentication,Server started,YES
+200,2026-11-01 01:50:00,WARNING,payment,High memory usage,YES
+201,2026-11-07 02:53:00,ERROR,database,Payment processing failed,YES
+202,2026-11-08 10:49:00,ERROR,database,Database connection failed,YES
+203,2026-11-05 04:34:00,INFO,payment,User logged in,YES
+204,2026-11-01 04:00:00,INFO,payment,User logged in,YES
+205,2026-11-01 05:16:00,WARNING,web,High memory usage,YES
+206,2026-11-17 03:47:00,WARNING,web,CPU usage is high,YES
+207,2026-11-12 16:37:00,INFO,web,Backup completed,YES
+208,2026-11-02 23:50:00,INFO,payment,Backup completed,YES
+209,2026-11-01 01:30:00,WARNING,authentication,CPU usage is high,YES
+210,2026-11-16 22:58:00,WARNING,authentication,High memory usage,YES
+211,2026-11-11 19:09:00,ERROR,web,Payment processing failed,YES
+212,2026-11-18 22:20:00,INFO,authentication,Request completed,YES
+213,2026-11-14 03:50:00,INFO,web,User logged in,YES
+214,2026-11-08 13:21:00,INFO,authentication,Backup completed,YES
+215,2026-11-04 10:27:00,INFO,payment,Request completed,YES
+216,2026-11-05 21:59:00,INFO,authentication,Server started,YES
+217,2026-11-03 02:27:00,INFO,web,Request completed,YES
+218,2026-11-18 01:37:00,ERROR,payment,Database connection failed,YES
+219,2026-11-14 23:03:00,INFO,payment,Request completed,YES
+220,2026-11-17 06:09:00,INFO,authentication,User logged in,YES
+221,2026-11-12 17:23:00,ERROR,web,File not found,YES
+222,2026-11-14 17:49:00,WARNING,web,Slow response detected,YES
+223,2026-11-09 00:11:00,ERROR,payment,File not found,YES
+224,2026-11-12 00:11:00,ERROR,database,Authentication failed,YES
+225,2026-11-01 02:47:00,INFO,database,Backup completed,YES
+226,2026-11-11 05:23:00,INFO,payment,Request completed,YES
+227,2026-11-03 01:09:00,ERROR,database,Database connection failed,YES
+228,2026-11-09 14:42:00,WARNING,authentication,CPU usage is high,YES
+229,2026-11-14 08:13:00,WARNING,web,CPU usage is high,YES
+230,2026-11-10 21:43:00,INFO,authentication,Request completed,YES
+231,2026-11-13 19:03:00,INFO,web,User logged in,YES
+232,2026-11-07 04:48:00,INFO,payment,Request completed,YES
+233,2026-11-01 15:47:00,INFO,authentication,User logged in,YES
+234,2026-11-18 22:14:00,INFO,payment,Server started,YES
+235,2026-11-02 13:01:00,INFO,authentication,Server started,YES
+236,2026-11-14 18:25:00,ERROR,authentication,File not found,YES
+237,2026-11-01 10:10:00,INFO,authentication,Request completed,YES
+238,2026-11-04 07:27:00,INFO,authentication,Server started,YES
+239,2026-11-10 23:21:00,INFO,database,Request completed,YES
+240,2026-11-03 16:40:00,ERROR,web,Payment processing failed,YES
+241,2026-11-12 11:46:00,ERROR,database,Payment processing failed,YES
+242,2026-11-09 06:11:00,INFO,database,Server started,YES
+243,2026-11-16 14:48:00,INFO,authentication,Request completed,YES
+244,2026-11-11 04:28:00,ERROR,web,Authentication failed,YES
+245,2026-11-10 08:37:00,INFO,web,Request completed,YES
+246,2026-11-10 14:28:00,INFO,web,Server started,YES
+247,2026-11-10 02:41:00,INFO,web,Backup completed,YES
+248,2026-11-18 23:57:00,INFO,web,Backup completed,YES
+249,2026-11-07 10:38:00,ERROR,authentication,Payment processing failed,YES
+250,2026-11-15 03:51:00,ERROR,payment,Database connection failed,YES
+251,2026-11-06 01:15:00,INFO,authentication,Backup completed,YES
+252,2026-11-06 11:23:00,INFO,payment,Backup completed,YES
+253,2026-11-11 21:38:00,INFO,web,Request completed,YES
+254,2026-11-04 17:43:00,INFO,authentication,Request completed,YES
+255,2026-11-05 10:05:00,INFO,database,Request completed,YES
+256,2026-11-13 04:38:00,INFO,web,Request completed,YES
+257,2026-11-11 04:42:00,WARNING,web,Slow response detected,YES
+258,2026-11-17 11:01:00,WARNING,payment,CPU usage is high,YES
+259,2026-11-07 10:49:00,INFO,authentication,User logged in,YES
+260,2026-11-05 04:04:00,INFO,payment,Server started,YES
+261,2026-11-18 23:56:00,INFO,web,Request completed,YES
+262,2026-11-05 19:24:00,ERROR,database,Payment processing failed,YES
+263,2026-11-06 23:28:00,INFO,web,Backup completed,YES
+264,2026-11-08 14:39:00,INFO,payment,Backup completed,YES
+265,2026-11-08 09:51:00,INFO,authentication,User logged in,YES
+266,2026-11-15 14:49:00,INFO,payment,Backup completed,YES
+267,2026-11-14 05:52:00,INFO,database,User logged in,YES
+268,2026-11-02 20:30:00,ERROR,payment,Database connection failed,YES
+269,2026-11-17 03:18:00,WARNING,web,High memory usage,YES
+270,2026-11-17 04:53:00,INFO,authentication,Server started,YES
+271,2026-11-08 14:56:00,ERROR,payment,Database connection failed,YES
+272,2026-11-13 16:23:00,INFO,database,Backup completed,YES
+273,2026-11-12 07:01:00,ERROR,payment,Database connection failed,YES
+274,2026-11-11 04:08:00,ERROR,web,File not found,YES
+275,2026-11-16 22:53:00,ERROR,database,Authentication failed,YES
+276,2026-11-01 02:01:00,INFO,payment,User logged in,YES
+277,2026-11-18 23:38:00,ERROR,authentication,Database connection failed,YES
+278,2026-11-08 09:07:00,ERROR,web,Payment processing failed,YES
+279,2026-11-15 02:07:00,INFO,authentication,Server started,YES
+280,2026-11-08 22:09:00,WARNING,payment,CPU usage is high,YES
+281,2026-11-12 07:36:00,INFO,authentication,User logged in,YES
+282,2026-11-03 16:23:00,WARNING,web,Slow response detected,YES
+283,2026-11-17 17:01:00,INFO,authentication,Backup completed,YES
+284,2026-11-13 11:16:00,INFO,web,Request completed,YES
+285,2026-11-12 07:46:00,ERROR,web,File not found,YES
+286,2026-11-12 17:21:00,INFO,database,Backup completed,YES
+287,2026-11-16 20:11:00,ERROR,database,Database connection failed,YES
+288,2026-11-15 01:18:00,WARNING,database,High memory usage,YES
+289,2026-11-02 10:59:00,ERROR,payment,Authentication failed,YES
+290,2026-11-18 15:16:00,ERROR,web,Payment processing failed,YES
+291,2026-11-02 20:21:00,INFO,payment,Server started,YES
+292,2026-11-14 12:47:00,ERROR,authentication,Authentication failed,YES
+293,2026-11-06 15:44:00,INFO,authentication,Request completed,YES
+294,2026-11-17 08:51:00,ERROR,web,Authentication failed,YES
+295,2026-11-06 17:18:00,INFO,payment,Server started,YES
+296,2026-11-10 09:28:00,INFO,authentication,User logged in,YES
+297,2026-11-12 14:02:00,WARNING,payment,Slow response detected,YES
+298,2026-11-09 20:50:00,ERROR,web,Database connection failed,YES
+299,2026-11-13 11:32:00,WARNING,database,High memory usage,YES
+300,2026-11-15 01:08:00,INFO,web,User logged in,YES
+301,2026-11-12 11:24:00,ERROR,web,Payment processing failed,YES
+302,2026-11-12 11:28:00,WARNING,web,Slow response detected,YES
+303,2026-11-12 12:20:00,INFO,payment,User logged in,YES
+304,2026-11-01 23:11:00,ERROR,authentication,Authentication failed,YES
+305,2026-11-04 08:49:00,ERROR,payment,Authentication failed,YES
+306,2026-11-10 22:58:00,INFO,authentication,User logged in,YES
+307,2026-11-03 14:11:00,INFO,authentication,Server started,YES
+308,2026-11-11 21:22:00,ERROR,web,File not found,YES
+309,2026-11-06 22:45:00,ERROR,database,File not found,YES
+310,2026-11-04 06:50:00,INFO,database,User logged in,YES
+311,2026-11-01 11:35:00,ERROR,payment,Authentication failed,YES
+312,2026-11-18 04:39:00,ERROR,web,Database connection failed,YES
+313,2026-11-16 16:26:00,INFO,authentication,Server started,YES
+314,2026-11-11 20:04:00,INFO,authentication,Backup completed,YES
+315,2026-11-12 04:56:00,WARNING,database,High memory usage,YES
+316,2026-11-02 03:33:00,INFO,database,Request completed,YES
+317,2026-11-11 22:14:00,INFO,payment,Request completed,YES
+318,2026-11-09 06:40:00,ERROR,payment,Payment processing failed,YES
+319,2026-11-18 02:32:00,WARNING,database,Slow response detected,YES
+320,2026-11-05 05:42:00,ERROR,payment,Database connection failed,YES
+321,2026-11-01 02:02:00,ERROR,payment,Payment processing failed,YES
+322,2026-11-14 19:40:00,ERROR,web,Authentication failed,YES
+323,2026-11-18 09:41:00,ERROR,payment,Authentication failed,YES
+324,2026-11-13 09:29:00,INFO,web,Server started,YES
+325,2026-11-14 15:29:00,INFO,database,Request completed,YES
+326,2026-11-11 22:20:00,WARNING,payment,CPU usage is high,YES
+327,2026-11-12 16:35:00,INFO,web,Request completed,YES
+328,2026-11-04 08:28:00,INFO,database,User logged in,YES
+329,2026-11-10 12:55:00,INFO,authentication,User logged in,YES
+330,2026-11-06 10:59:00,ERROR,payment,Payment processing failed,YES
+331,2026-11-16 16:29:00,ERROR,authentication,File not found,YES
+332,2026-11-03 12:32:00,INFO,authentication,User logged in,YES
+333,2026-11-12 01:03:00,INFO,payment,Backup completed,YES
+334,2026-11-16 09:34:00,WARNING,web,High memory usage,YES
+335,2026-11-09 23:23:00,INFO,authentication,Request completed,YES
+336,2026-11-02 18:35:00,INFO,database,Request completed,YES
+337,2026-11-03 12:32:00,WARNING,authentication,Slow response detected,YES
+338,2026-11-04 04:06:00,INFO,authentication,Request completed,YES
+339,2026-11-11 17:23:00,ERROR,database,Payment processing failed,YES
+340,2026-11-13 16:02:00,WARNING,web,High memory usage,YES
+341,2026-11-11 15:33:00,INFO,authentication,User logged in,YES
+342,2026-11-17 04:20:00,WARNING,payment,High memory usage,YES
+343,2026-11-10 18:21:00,INFO,authentication,Request completed,YES
+344,2026-11-01 11:21:00,INFO,web,Backup completed,YES
+345,2026-11-01 19:30:00,WARNING,payment,Slow response detected,YES
+346,2026-11-08 23:03:00,ERROR,authentication,Payment processing failed,YES
+347,2026-11-13 04:52:00,INFO,database,Server started,YES
+348,2026-11-04 06:01:00,WARNING,authentication,CPU usage is high,YES
+349,2026-11-14 22:13:00,INFO,authentication,Backup completed,YES
+350,2026-11-02 22:08:00,ERROR,database,File not found,YES
+351,2026-11-16 16:24:00,ERROR,payment,Payment processing failed,YES
+352,2026-11-18 10:34:00,INFO,payment,Request completed,YES
+353,2026-11-07 07:17:00,WARNING,payment,High memory usage,YES
+354,2026-11-10 09:45:00,ERROR,database,Authentication failed,YES
+355,2026-11-12 17:59:00,INFO,payment,Request completed,YES
+356,2026-11-18 12:57:00,INFO,authentication,Request completed,YES
+357,2026-11-05 09:02:00,ERROR,payment,Database connection failed,YES
+358,2026-11-15 20:16:00,INFO,authentication,User logged in,YES
+359,2026-11-18 08:59:00,INFO,payment,User logged in,YES
+360,2026-11-08 07:03:00,INFO,database,User logged in,YES
+361,2026-11-14 10:45:00,INFO,authentication,Server started,YES
+362,2026-11-05 00:35:00,WARNING,database,CPU usage is high,YES
+363,2026-11-16 15:41:00,WARNING,database,CPU usage is high,YES
+364,2026-11-02 02:41:00,INFO,database,Server started,YES
+365,2026-11-06 13:56:00,ERROR,database,Database connection failed,YES
+366,2026-11-13 15:11:00,ERROR,payment,Database connection failed,YES
+367,2026-11-04 10:18:00,INFO,authentication,Backup completed,YES
+368,2026-11-05 16:29:00,ERROR,payment,Payment processing failed,YES
+369,2026-11-11 05:46:00,ERROR,authentication,File not found,YES
+370,2026-11-01 23:21:00,WARNING,payment,Slow response detected,YES
+371,2026-11-07 05:39:00,WARNING,authentication,CPU usage is high,YES
+372,2026-11-03 12:42:00,INFO,web,User logged in,YES
+373,2026-11-16 10:59:00,ERROR,database,Database connection failed,YES
+374,2026-11-08 14:48:00,INFO,payment,Request completed,YES
+375,2026-11-01 08:41:00,INFO,payment,User logged in,YES
+376,2026-11-04 14:19:00,INFO,database,Backup completed,YES
+377,2026-11-10 22:07:00,WARNING,payment,CPU usage is high,YES
+378,2026-11-08 04:30:00,WARNING,database,CPU usage is high,YES
+379,2026-11-12 13:44:00,WARNING,authentication,Slow response detected,YES
+380,2026-11-07 07:43:00,ERROR,web,Authentication failed,YES
+381,2026-11-12 02:58:00,INFO,web,Server started,YES
+382,2026-11-17 06:36:00,ERROR,database,Payment processing failed,YES
+383,2026-11-17 14:07:00,INFO,database,Backup completed,YES
+384,2026-11-17 14:51:00,INFO,web,Backup completed,YES
+385,2026-11-14 14:36:00,INFO,web,Backup completed,YES
+386,2026-11-10 23:01:00,WARNING,authentication,CPU usage is high,YES
+387,2026-11-07 18:04:00,ERROR,web,Authentication failed,YES
+388,2026-11-03 17:03:00,INFO,web,Backup completed,YES
+389,2026-11-14 05:49:00,INFO,database,Backup completed,YES
+390,2026-11-13 14:55:00,INFO,authentication,Backup completed,YES
+391,2026-11-18 04:41:00,INFO,payment,Server started,YES
+392,2026-11-18 12:33:00,INFO,database,User logged in,YES
+393,2026-11-01 09:29:00,ERROR,authentication,Authentication failed,YES
+394,2026-11-08 14:22:00,ERROR,database,File not found,YES
+395,2026-11-04 01:51:00,INFO,authentication,Server started,YES
+396,2026-11-03 03:38:00,INFO,web,Backup completed,YES
+397,2026-11-02 07:47:00,WARNING,web,CPU usage is high,YES
+398,2026-11-18 06:48:00,INFO,web,User logged in,YES
+399,2026-11-10 07:52:00,INFO,payment,Request completed,YES
+400,2026-11-05 21:33:00,INFO,database,Backup completed,YES
+401,2026-11-02 17:37:00,INFO,database,Backup completed,YES
+402,2026-11-02 11:41:00,WARNING,authentication,Slow response detected,YES
+403,2026-11-14 13:09:00,INFO,payment,Backup completed,YES
+404,2026-11-18 15:15:00,INFO,database,Request completed,YES
+405,2026-11-05 14:58:00,ERROR,web,Authentication failed,YES
+406,2026-11-18 16:08:00,ERROR,authentication,Payment processing failed,YES
+407,2026-11-11 20:05:00,INFO,authentication,Request completed,YES
+408,2026-11-07 01:17:00,INFO,authentication,Server started,YES
+409,2026-11-07 18:46:00,ERROR,database,Authentication failed,YES
+410,2026-11-11 09:58:00,INFO,web,User logged in,YES
+411,2026-11-04 23:48:00,ERROR,authentication,Payment processing failed,YES
+412,2026-11-07 12:58:00,WARNING,database,Slow response detected,YES
+413,2026-11-10 12:29:00,INFO,payment,Request completed,YES
+414,2026-11-17 15:29:00,INFO,web,Backup completed,YES
+415,2026-11-11 06:23:00,ERROR,payment,Authentication failed,YES
+416,2026-11-08 23:09:00,INFO,web,Request completed,YES
+417,2026-11-14 09:09:00,WARNING,database,CPU usage is high,YES
+418,2026-11-08 15:35:00,INFO,payment,Request completed,YES
+419,2026-11-16 23:41:00,ERROR,authentication,Authentication failed,YES
+420,2026-11-12 05:08:00,INFO,authentication,User logged in,YES
+421,2026-11-18 20:03:00,ERROR,web,Database connection failed,YES
+422,2026-11-02 00:26:00,ERROR,database,Payment processing failed,YES
+423,2026-11-05 00:13:00,INFO,authentication,Request completed,YES
+424,2026-11-16 21:31:00,INFO,web,Server started,YES
+425,2026-11-14 00:01:00,INFO,payment,Request completed,YES
+426,2026-11-14 05:06:00,INFO,web,User logged in,YES
+427,2026-11-17 08:52:00,INFO,payment,Request completed,YES
+428,2026-11-03 11:25:00,ERROR,authentication,Payment processing failed,YES
+429,2026-11-08 09:43:00,ERROR,web,Database connection failed,YES
+430,2026-11-13 12:35:00,INFO,authentication,Server started,YES
+431,2026-11-06 02:31:00,WARNING,authentication,Slow response detected,YES
+432,2026-11-04 16:58:00,ERROR,web,Payment processing failed,YES
+433,2026-11-16 08:02:00,INFO,web,Request completed,YES
+434,2026-11-02 05:59:00,ERROR,payment,Database connection failed,YES
+435,2026-11-05 22:52:00,ERROR,authentication,Database connection failed,YES
+436,2026-11-08 18:53:00,INFO,authentication,Request completed,YES
+437,2026-11-05 22:46:00,INFO,web,Request completed,YES
+438,2026-11-14 07:53:00,INFO,web,Request completed,YES
+439,2026-11-13 10:01:00,WARNING,payment,CPU usage is high,YES
+440,2026-11-12 17:24:00,INFO,authentication,User logged in,YES
+441,2026-11-13 02:49:00,WARNING,payment,High memory usage,YES
+442,2026-11-03 08:09:00,WARNING,authentication,Slow response detected,YES
+443,2026-11-05 23:24:00,ERROR,payment,File not found,YES
+444,2026-11-01 09:28:00,INFO,payment,Request completed,YES
+445,2026-11-03 05:27:00,INFO,authentication,Backup completed,YES
+446,2026-11-03 11:35:00,INFO,web,Request completed,YES
+447,2026-11-01 09:26:00,ERROR,authentication,Database connection failed,YES
+448,2026-11-18 07:36:00,WARNING,database,Slow response detected,YES
+449,2026-11-05 08:19:00,INFO,payment,Backup completed,YES
+450,2026-11-06 13:17:00,INFO,authentication,Request completed,YES
+451,2026-11-03 11:16:00,INFO,database,Backup completed,YES
+452,2026-11-07 14:06:00,WARNING,database,CPU usage is high,YES
+453,2026-11-13 10:53:00,INFO,authentication,Request completed,YES
+454,2026-11-14 20:38:00,INFO,database,Request completed,YES
+455,2026-11-07 15:20:00,INFO,database,Backup completed,YES
+456,2026-11-10 23:44:00,ERROR,authentication,Payment processing failed,YES
+457,2026-11-09 12:23:00,INFO,web,User logged in,YES
+458,2026-11-18 05:43:00,WARNING,web,Slow response detected,YES
+459,2026-11-07 14:51:00,INFO,payment,Server started,YES
+460,2026-11-14 21:31:00,ERROR,database,File not found,YES
+461,2026-11-05 22:27:00,INFO,authentication,Server started,YES
+462,2026-11-16 18:25:00,INFO,authentication,Server started,YES
+463,2026-11-12 22:57:00,ERROR,web,Database connection failed,YES
+464,2026-11-12 05:41:00,ERROR,web,Authentication failed,YES
+465,2026-11-11 13:06:00,ERROR,web,Database connection failed,YES
+466,2026-11-17 23:33:00,INFO,database,Backup completed,YES
+467,2026-11-15 21:37:00,INFO,database,Request completed,YES
+468,2026-11-16 03:18:00,ERROR,authentication,Database connection failed,YES
+469,2026-11-05 11:19:00,INFO,payment,Backup completed,YES
+470,2026-11-17 15:22:00,ERROR,authentication,Database connection failed,YES
+471,2026-11-15 10:04:00,INFO,payment,Server started,YES
+472,2026-11-04 00:54:00,ERROR,payment,Database connection failed,YES
+473,2026-11-06 23:15:00,WARNING,database,Slow response detected,YES
+474,2026-11-18 13:29:00,INFO,database,Backup completed,YES
+475,2026-11-06 20:42:00,WARNING,authentication,CPU usage is high,YES
+476,2026-11-07 14:37:00,INFO,authentication,Backup completed,YES
+477,2026-11-07 06:17:00,INFO,web,Server started,YES
+478,2026-11-18 05:23:00,ERROR,payment,Payment processing failed,YES
+479,2026-11-09 21:55:00,INFO,authentication,Request completed,YES
+480,2026-11-13 18:07:00,WARNING,payment,CPU usage is high,YES
+481,2026-11-06 21:45:00,ERROR,payment,Database connection failed,YES
+482,2026-11-11 03:15:00,WARNING,payment,High memory usage,YES
+483,2026-11-05 16:24:00,INFO,authentication,User logged in,YES
+484,2026-11-14 05:31:00,WARNING,database,Slow response detected,YES
+485,2026-11-10 04:11:00,INFO,payment,Backup completed,YES
+486,2026-11-12 00:31:00,WARNING,database,High memory usage,YES
+487,2026-11-18 16:41:00,ERROR,authentication,Authentication failed,YES
+488,2026-11-14 22:53:00,WARNING,authentication,CPU usage is high,YES
+489,2026-11-01 07:18:00,INFO,web,Request completed,YES
+490,2026-11-10 05:49:00,INFO,authentication,Backup completed,YES
+491,2026-11-04 18:07:00,INFO,payment,Request completed,YES
+492,2026-11-02 23:28:00,INFO,database,Backup completed,YES
+493,2026-11-08 09:55:00,INFO,web,Backup completed,YES
+494,2026-11-03 14:55:00,INFO,web,User logged in,YES
+495,2026-11-12 22:39:00,INFO,authentication,User logged in,YES
+496,2026-11-07 06:51:00,WARNING,web,Slow response detected,YES
+497,2026-11-09 19:34:00,INFO,database,Request completed,YES
+498,2026-11-10 09:36:00,ERROR,payment,Database connection failed,YES
+499,2026-11-14 01:17:00,INFO,database,User logged in,YES
+500,2026-11-11 07:48:00,INFO,authentication,Backup completed,YES
+501,2026-11-09 20:26:00,INFO,authentication,Backup completed,YES
+502,2026-11-03 12:32:00,INFO,payment,Request completed,YES
+503,2026-11-16 10:37:00,INFO,web,Server started,YES
+504,2026-11-15 20:42:00,WARNING,payment,High memory usage,YES
+505,2026-11-13 06:27:00,ERROR,database,Authentication failed,YES
+506,2026-11-10 10:35:00,INFO,database,Backup completed,YES
+507,2026-11-02 01:06:00,ERROR,authentication,Database connection failed,YES
+508,2026-11-06 14:29:00,INFO,web,Backup completed,YES
+509,2026-11-05 20:19:00,INFO,database,Request completed,YES
+510,2026-11-12 08:05:00,INFO,payment,User logged in,YES
+511,2026-11-10 23:44:00,INFO,database,Backup completed,YES
+512,2026-11-04 00:13:00,WARNING,authentication,High memory usage,YES
+513,2026-11-08 16:43:00,INFO,authentication,Server started,YES
+514,2026-11-11 03:55:00,INFO,authentication,User logged in,YES
+515,2026-11-08 12:05:00,INFO,web,Server started,YES
+516,2026-11-10 04:24:00,INFO,database,User logged in,YES
+517,2026-11-01 19:41:00,INFO,database,Backup completed,YES
+518,2026-11-07 20:47:00,INFO,database,Backup completed,YES
+519,2026-11-15 06:05:00,WARNING,web,High memory usage,YES
+520,2026-11-13 11:27:00,ERROR,payment,Payment processing failed,YES
+521,2026-11-03 07:35:00,INFO,payment,Server started,YES
+522,2026-11-10 06:33:00,ERROR,database,Authentication failed,YES
+523,2026-11-02 07:31:00,INFO,authentication,Server started,YES
+524,2026-11-03 16:56:00,INFO,web,Request completed,YES
+525,2026-11-05 12:55:00,ERROR,authentication,File not found,YES
+526,2026-11-06 15:49:00,INFO,web,Server started,YES
+527,2026-11-01 08:13:00,WARNING,web,High memory usage,YES
+528,2026-11-13 16:18:00,ERROR,authentication,Authentication failed,YES
+529,2026-11-03 20:34:00,WARNING,database,CPU usage is high,YES
+530,2026-11-03 16:58:00,INFO,database,User logged in,YES
+531,2026-11-13 18:40:00,INFO,web,Request completed,YES
+532,2026-11-08 01:15:00,WARNING,web,CPU usage is high,YES
+533,2026-11-02 09:42:00,INFO,database,Server started,YES
+534,2026-11-05 22:00:00,INFO,database,Backup completed,YES
+535,2026-11-17 16:50:00,ERROR,payment,Payment processing failed,YES
+536,2026-11-09 23:56:00,INFO,web,Server started,YES
+537,2026-11-14 08:33:00,INFO,web,Request completed,YES
+538,2026-11-03 15:29:00,WARNING,payment,High memory usage,YES
+539,2026-11-06 11:10:00,INFO,payment,Server started,YES
+540,2026-11-04 07:47:00,ERROR,web,Database connection failed,YES
+541,2026-11-01 07:02:00,ERROR,authentication,File not found,YES
+542,2026-11-05 05:59:00,INFO,web,Backup completed,YES
+543,2026-11-08 13:58:00,INFO,payment,Request completed,YES
+544,2026-11-12 03:32:00,ERROR,web,Payment processing failed,YES
+545,2026-11-17 01:25:00,INFO,web,Backup completed,YES
+546,2026-11-10 10:05:00,ERROR,authentication,Database connection failed,YES
+547,2026-11-10 18:50:00,INFO,payment,User logged in,YES
+548,2026-11-16 06:46:00,INFO,database,User logged in,YES
+549,2026-11-14 00:14:00,INFO,payment,Server started,YES
+550,2026-11-01 21:24:00,ERROR,payment,Database connection failed,YES
+551,2026-11-08 13:31:00,INFO,web,User logged in,YES
+552,2026-11-03 01:58:00,WARNING,database,Slow response detected,YES
+553,2026-11-12 14:47:00,INFO,web,Server started,YES
+554,2026-11-13 02:37:00,INFO,web,Backup completed,YES
+555,2026-11-05 07:18:00,WARNING,payment,CPU usage is high,YES
+556,2026-11-13 22:53:00,ERROR,payment,File not found,YES
+557,2026-11-08 02:12:00,INFO,database,Server started,YES
+558,2026-11-06 14:29:00,INFO,payment,Backup completed,YES
+559,2026-11-12 06:28:00,INFO,payment,Backup completed,YES
+560,2026-11-04 02:10:00,INFO,payment,Server started,YES
+561,2026-11-11 04:05:00,INFO,database,Request completed,YES
+562,2026-11-02 21:19:00,INFO,payment,User logged in,YES
+563,2026-11-13 14:35:00,INFO,database,Server started,YES
+564,2026-11-05 03:00:00,INFO,web,User logged in,YES
+565,2026-11-13 11:43:00,INFO,web,Request completed,YES
+566,2026-11-03 00:04:00,ERROR,database,Authentication failed,YES
+567,2026-11-03 10:07:00,ERROR,web,Authentication failed,YES
+568,2026-11-14 23:25:00,INFO,authentication,Server started,YES
+569,2026-11-14 05:22:00,INFO,database,User logged in,YES
+570,2026-11-15 04:02:00,INFO,database,Request completed,YES
+571,2026-11-18 15:03:00,INFO,web,Request completed,YES
+572,2026-11-14 06:41:00,INFO,database,Server started,YES
+573,2026-11-12 15:34:00,ERROR,authentication,File not found,YES
+574,2026-11-17 10:24:00,ERROR,payment,Payment processing failed,YES
+575,2026-11-08 00:57:00,INFO,payment,Server started,YES
+576,2026-11-16 16:22:00,ERROR,database,Payment processing failed,YES
+577,2026-11-08 08:34:00,INFO,web,User logged in,YES
+578,2026-11-13 11:59:00,WARNING,database,High memory usage,YES
+579,2026-11-11 23:44:00,INFO,payment,Server started,YES
+580,2026-11-12 18:36:00,WARNING,database,Slow response detected,YES
+581,2026-11-16 17:19:00,ERROR,database,Authentication failed,YES
+582,2026-11-02 07:38:00,INFO,database,Server started,YES
+583,2026-11-01 10:58:00,INFO,database,User logged in,YES
+584,2026-11-06 10:03:00,INFO,web,User logged in,YES
+585,2026-11-05 03:54:00,WARNING,payment,High memory usage,YES
+586,2026-11-13 18:06:00,INFO,payment,Request completed,YES
+587,2026-11-06 23:27:00,INFO,authentication,Request completed,YES
+588,2026-11-18 22:56:00,INFO,payment,User logged in,YES
+589,2026-11-06 12:19:00,WARNING,payment,High memory usage,YES
+590,2026-11-01 22:36:00,INFO,authentication,Server started,YES
+591,2026-11-11 19:14:00,INFO,web,Backup completed,YES
+592,2026-11-03 07:22:00,INFO,payment,User logged in,YES
+593,2026-11-03 22:42:00,WARNING,payment,CPU usage is high,YES
+594,2026-11-07 07:44:00,INFO,web,Request completed,YES
+595,2026-11-04 23:00:00,INFO,web,Backup completed,YES
+596,2026-11-14 05:56:00,INFO,authentication,Backup completed,YES
+597,2026-11-12 17:24:00,ERROR,web,Authentication failed,YES
+598,2026-11-08 05:28:00,ERROR,web,Database connection failed,YES
+599,2026-11-11 08:06:00,INFO,web,Request completed,YES
+600,2026-11-13 05:46:00,INFO,web,Server started,YES
+601,2026-11-16 22:01:00,INFO,authentication,User logged in,YES
+602,2026-11-14 05:03:00,WARNING,web,CPU usage is high,YES
+603,2026-11-07 13:44:00,INFO,payment,Request completed,YES
+604,2026-11-04 01:25:00,INFO,authentication,User logged in,YES
+605,2026-11-01 13:05:00,INFO,payment,Backup completed,YES
+606,2026-11-01 06:10:00,INFO,payment,Server started,YES
+607,2026-11-04 09:50:00,INFO,authentication,Backup completed,YES
+608,2026-11-09 02:41:00,INFO,authentication,User logged in,YES
+609,2026-11-13 11:11:00,INFO,authentication,Server started,YES
+610,2026-11-15 08:14:00,INFO,payment,Server started,YES
+611,2026-11-04 02:42:00,INFO,payment,Backup completed,YES
+612,2026-11-08 17:03:00,ERROR,authentication,Authentication failed,YES
+613,2026-11-16 18:56:00,ERROR,database,Authentication failed,YES
+614,2026-11-13 22:02:00,INFO,database,Server started,YES
+615,2026-11-15 05:10:00,ERROR,database,Payment processing failed,YES
+616,2026-11-14 02:43:00,INFO,authentication,User logged in,YES
+617,2026-11-05 19:16:00,ERROR,payment,Database connection failed,YES
+618,2026-11-18 12:35:00,INFO,payment,Request completed,YES
+619,2026-11-01 22:39:00,INFO,authentication,Server started,YES
+620,2026-11-05 18:37:00,INFO,web,Server started,YES
+621,2026-11-04 09:55:00,WARNING,payment,CPU usage is high,YES
+622,2026-11-16 18:38:00,INFO,authentication,Server started,YES
+623,2026-11-13 04:39:00,INFO,authentication,Server started,YES
+624,2026-11-11 22:15:00,INFO,web,Backup completed,YES
+625,2026-11-12 00:21:00,ERROR,payment,File not found,YES
+626,2026-11-16 22:43:00,INFO,web,User logged in,YES
+627,2026-11-15 10:17:00,INFO,authentication,Server started,YES
+628,2026-11-07 13:47:00,INFO,authentication,Request completed,YES
+629,2026-11-17 05:04:00,ERROR,payment,Authentication failed,YES
+630,2026-11-17 18:01:00,INFO,database,User logged in,YES
+631,2026-11-07 01:15:00,ERROR,web,Authentication failed,YES
+632,2026-11-12 22:12:00,INFO,payment,Request completed,YES
+633,2026-11-17 12:40:00,ERROR,web,Database connection failed,YES
+634,2026-11-16 19:28:00,INFO,database,Backup completed,YES
+635,2026-11-12 11:10:00,WARNING,payment,Slow response detected,YES
+636,2026-11-03 09:01:00,ERROR,authentication,Database connection failed,YES
+637,2026-11-07 07:41:00,INFO,database,User logged in,YES
+638,2026-11-14 16:01:00,INFO,web,Backup completed,YES
+639,2026-11-06 19:51:00,ERROR,web,Payment processing failed,YES
+640,2026-11-10 22:45:00,INFO,payment,Backup completed,YES
+641,2026-11-12 14:16:00,ERROR,database,Authentication failed,YES
+642,2026-11-17 19:25:00,INFO,web,Server started,YES
+643,2026-11-12 17:41:00,INFO,payment,Request completed,YES
+644,2026-11-16 02:21:00,WARNING,payment,Slow response detected,YES
+645,2026-11-09 08:41:00,INFO,payment,User logged in,YES
+646,2026-11-08 01:51:00,INFO,authentication,Request completed,YES
+647,2026-11-01 20:31:00,WARNING,payment,CPU usage is high,YES
+648,2026-11-13 12:47:00,ERROR,web,Payment processing failed,YES
+649,2026-11-08 21:34:00,INFO,authentication,Request completed,YES
+650,2026-11-06 21:56:00,INFO,database,Request completed,YES
+651,2026-11-05 23:16:00,INFO,database,Request completed,YES
+652,2026-11-08 11:14:00,WARNING,payment,CPU usage is high,YES
+653,2026-11-11 11:16:00,ERROR,payment,Authentication failed,YES
+654,2026-11-16 01:55:00,ERROR,web,Authentication failed,YES
+655,2026-11-17 03:55:00,ERROR,authentication,File not found,YES
+656,2026-11-05 04:12:00,INFO,payment,Backup completed,YES
+657,2026-11-15 04:20:00,ERROR,database,Database connection failed,YES
+658,2026-11-06 10:40:00,INFO,web,Server started,YES
+659,2026-11-07 05:36:00,INFO,database,Backup completed,YES
+660,2026-11-03 04:39:00,ERROR,authentication,Authentication failed,YES
+661,2026-11-16 12:00:00,INFO,web,User logged in,YES
+662,2026-11-01 10:48:00,WARNING,database,High memory usage,YES
+663,2026-11-08 07:44:00,WARNING,payment,CPU usage is high,YES
+664,2026-11-13 16:37:00,INFO,payment,User logged in,YES
+665,2026-11-02 09:18:00,INFO,authentication,Request completed,YES
+666,2026-11-05 10:57:00,INFO,authentication,Request completed,YES
+667,2026-11-06 12:01:00,ERROR,database,Payment processing failed,YES
+668,2026-11-05 06:46:00,WARNING,web,Slow response detected,YES
+669,2026-11-04 11:45:00,INFO,web,Backup completed,YES
+670,2026-11-09 17:39:00,ERROR,web,Database connection failed,YES
+671,2026-11-01 01:44:00,WARNING,web,CPU usage is high,YES
+672,2026-11-04 17:16:00,INFO,authentication,User logged in,YES
+673,2026-11-01 09:26:00,INFO,web,Request completed,YES
+674,2026-11-05 13:53:00,WARNING,web,Slow response detected,YES
+675,2026-11-04 09:07:00,WARNING,web,CPU usage is high,YES
+676,2026-11-07 08:53:00,INFO,database,Request completed,YES
+677,2026-11-10 05:02:00,WARNING,authentication,High memory usage,YES
+678,2026-11-16 10:15:00,WARNING,web,High memory usage,YES
+679,2026-11-04 18:42:00,WARNING,authentication,High memory usage,YES
+680,2026-11-17 02:46:00,ERROR,web,File not found,YES
+681,2026-11-15 09:16:00,WARNING,authentication,High memory usage,YES
+682,2026-11-06 01:54:00,INFO,payment,Request completed,YES
+683,2026-11-11 13:47:00,ERROR,web,Database connection failed,YES
+684,2026-11-02 00:54:00,ERROR,database,Payment processing failed,YES
+685,2026-11-15 19:17:00,INFO,web,Request completed,YES
+686,2026-11-06 03:25:00,ERROR,authentication,Authentication failed,YES
+687,2026-11-13 22:54:00,INFO,authentication,Backup completed,YES
+688,2026-11-06 03:08:00,WARNING,web,High memory usage,YES
+689,2026-11-16 18:43:00,INFO,authentication,User logged in,YES
+690,2026-11-12 19:01:00,WARNING,database,CPU usage is high,YES
+691,2026-11-04 13:28:00,ERROR,web,Database connection failed,YES
+692,2026-11-11 00:45:00,INFO,database,Request completed,YES
+693,2026-11-04 13:42:00,INFO,database,Backup completed,YES
+694,2026-11-13 04:53:00,INFO,web,Server started,YES
+695,2026-11-06 16:54:00,WARNING,authentication,CPU usage is high,YES
+696,2026-11-03 15:20:00,ERROR,database,File not found,YES
+697,2026-11-02 16:14:00,ERROR,authentication,Authentication failed,YES
+698,2026-11-03 14:28:00,ERROR,authentication,Database connection failed,YES
+699,2026-11-15 10:07:00,ERROR,authentication,Database connection failed,YES
+700,2026-11-14 01:35:00,INFO,web,Server started,YES
+701,2026-11-10 16:35:00,ERROR,database,Authentication failed,YES
+702,2026-11-12 01:52:00,ERROR,database,Authentication failed,YES
+703,2026-11-16 22:42:00,INFO,payment,Backup completed,YES
+704,2026-11-08 00:21:00,INFO,payment,Request completed,YES
+705,2026-11-12 22:06:00,INFO,web,User logged in,YES
+706,2026-11-14 03:16:00,INFO,database,User logged in,YES
+707,2026-11-13 06:29:00,INFO,database,Request completed,YES
+708,2026-11-14 01:59:00,INFO,web,Backup completed,YES
+709,2026-11-17 04:31:00,INFO,web,Server started,YES
+710,2026-11-14 18:30:00,WARNING,database,Slow response detected,YES
+711,2026-11-05 03:24:00,WARNING,payment,Slow response detected,YES
+712,2026-11-14 19:58:00,ERROR,database,File not found,YES
+713,2026-11-11 09:28:00,INFO,database,User logged in,YES
+714,2026-11-17 09:53:00,INFO,payment,User logged in,YES
+715,2026-11-10 21:22:00,INFO,database,User logged in,YES
+716,2026-11-11 22:07:00,INFO,payment,Backup completed,YES
+717,2026-11-14 21:47:00,WARNING,payment,CPU usage is high,YES
+718,2026-11-17 03:01:00,ERROR,authentication,Payment processing failed,YES
+719,2026-11-02 06:17:00,INFO,database,Request completed,YES
+720,2026-11-05 01:44:00,WARNING,payment,High memory usage,YES
+721,2026-11-02 11:52:00,ERROR,authentication,Database connection failed,YES
+722,2026-11-18 07:47:00,WARNING,authentication,High memory usage,YES
+723,2026-11-10 22:42:00,INFO,web,Backup completed,YES
+724,2026-11-11 17:03:00,INFO,web,Request completed,YES
+725,2026-11-15 07:58:00,INFO,payment,User logged in,YES
+726,2026-11-07 09:28:00,ERROR,database,Database connection failed,YES
+727,2026-11-06 23:32:00,INFO,web,Backup completed,YES
+728,2026-11-09 17:16:00,INFO,database,User logged in,YES
+729,2026-11-09 00:21:00,WARNING,authentication,Slow response detected,YES
+730,2026-11-02 04:59:00,ERROR,payment,Database connection failed,YES
+731,2026-11-10 15:50:00,ERROR,payment,Database connection failed,YES
+732,2026-11-11 16:14:00,ERROR,database,Database connection failed,YES
+733,2026-11-06 13:34:00,ERROR,authentication,Database connection failed,YES
+734,2026-11-07 21:21:00,INFO,payment,Request completed,YES
+735,2026-11-17 15:35:00,INFO,web,Server started,YES
+736,2026-11-15 07:57:00,WARNING,database,High memory usage,YES
+737,2026-11-11 12:58:00,WARNING,web,CPU usage is high,YES
+738,2026-11-10 00:58:00,INFO,payment,Backup completed,YES
+739,2026-11-10 20:12:00,INFO,payment,Server started,YES
+740,2026-11-06 17:34:00,ERROR,web,Database connection failed,YES
+741,2026-11-07 21:27:00,INFO,web,User logged in,YES
+742,2026-11-14 20:52:00,INFO,web,User logged in,YES
+743,2026-11-11 01:05:00,INFO,web,Server started,YES
+744,2026-11-09 17:04:00,INFO,database,Request completed,YES
+745,2026-11-15 20:25:00,INFO,authentication,Request completed,YES
+746,2026-11-04 17:00:00,INFO,web,Server started,YES
+747,2026-11-03 11:59:00,WARNING,web,CPU usage is high,YES
+748,2026-11-10 19:05:00,ERROR,payment,Authentication failed,YES
+749,2026-11-01 15:10:00,INFO,database,User logged in,YES
+750,2026-11-18 09:40:00,WARNING,database,CPU usage is high,YES
+751,2026-11-12 00:35:00,WARNING,database,High memory usage,YES
+752,2026-11-13 17:35:00,INFO,web,Request completed,YES
+753,2026-11-12 06:26:00,INFO,database,User logged in,YES
+754,2026-11-09 06:07:00,INFO,database,Server started,YES
+755,2026-11-18 14:41:00,ERROR,web,File not found,YES
+756,2026-11-09 03:12:00,WARNING,authentication,CPU usage is high,YES
+757,2026-11-08 03:18:00,INFO,web,User logged in,YES
+758,2026-11-15 10:39:00,INFO,payment,User logged in,YES
+759,2026-11-12 10:27:00,WARNING,database,High memory usage,YES
+760,2026-11-08 22:47:00,INFO,authentication,Request completed,YES
+761,2026-11-05 21:46:00,ERROR,payment,Authentication failed,YES
+762,2026-11-12 09:31:00,INFO,web,User logged in,YES
+763,2026-11-03 08:54:00,WARNING,database,Slow response detected,YES
+764,2026-11-03 23:04:00,INFO,web,Server started,YES
+765,2026-11-13 18:13:00,ERROR,web,File not found,YES
+766,2026-11-18 15:41:00,INFO,database,Request completed,YES
+767,2026-11-10 04:29:00,INFO,web,Backup completed,YES
+768,2026-11-01 21:15:00,INFO,database,User logged in,YES
+769,2026-11-06 18:36:00,INFO,database,Backup completed,YES
+770,2026-11-02 07:48:00,ERROR,authentication,Payment processing failed,YES
+771,2026-11-12 07:02:00,INFO,database,Request completed,YES
+772,2026-11-15 01:02:00,INFO,payment,Server started,YES
+773,2026-11-17 20:53:00,WARNING,payment,Slow response detected,YES
+774,2026-11-18 18:11:00,INFO,authentication,Backup completed,YES
+775,2026-11-03 16:16:00,INFO,authentication,User logged in,YES
+776,2026-11-12 11:31:00,INFO,authentication,Server started,YES
+777,2026-11-05 14:10:00,INFO,database,Server started,YES
+778,2026-11-09 06:09:00,INFO,database,User logged in,YES
+779,2026-11-04 21:14:00,INFO,authentication,Request completed,YES
+780,2026-11-16 21:30:00,WARNING,authentication,High memory usage,YES
+781,2026-11-14 00:15:00,WARNING,web,High memory usage,YES
+782,2026-11-06 04:40:00,WARNING,web,Slow response detected,YES
+783,2026-11-06 08:59:00,INFO,database,Backup completed,YES
+784,2026-11-01 23:46:00,WARNING,payment,High memory usage,YES
+785,2026-11-16 15:10:00,INFO,database,Backup completed,YES
+786,2026-11-06 19:42:00,WARNING,payment,High memory usage,YES
+787,2026-11-11 14:38:00,WARNING,web,High memory usage,YES
+788,2026-11-05 03:01:00,INFO,database,Backup completed,YES
+789,2026-11-04 05:30:00,ERROR,web,Database connection failed,YES
+790,2026-11-05 19:34:00,INFO,web,Backup completed,YES
+791,2026-11-12 01:44:00,INFO,authentication,User logged in,YES
+792,2026-11-16 12:22:00,ERROR,web,Authentication failed,YES
+793,2026-11-16 07:58:00,INFO,web,Request completed,YES
+794,2026-11-18 13:16:00,WARNING,database,High memory usage,YES
+795,2026-11-01 18:33:00,WARNING,web,Slow response detected,YES
+796,2026-11-07 22:51:00,INFO,payment,Backup completed,YES
+797,2026-11-05 13:41:00,INFO,payment,Request completed,YES
+798,2026-11-14 18:23:00,ERROR,payment,Authentication failed,YES
+799,2026-11-14 17:50:00,ERROR,authentication,Payment processing failed,YES
+800,2026-11-18 15:16:00,INFO,payment,Request completed,YES
+801,2026-11-13 23:08:00,ERROR,web,Payment processing failed,YES
+802,2026-11-06 03:13:00,INFO,authentication,Request completed,YES
+803,2026-11-02 05:24:00,ERROR,web,Database connection failed,YES
+804,2026-11-16 19:27:00,ERROR,web,Database connection failed,YES
+805,2026-11-12 02:38:00,INFO,web,Backup completed,YES
+806,2026-11-13 19:41:00,ERROR,payment,Database connection failed,YES
+807,2026-11-06 20:31:00,ERROR,authentication,Database connection failed,YES
+808,2026-11-17 09:12:00,INFO,web,User logged in,YES
+809,2026-11-02 11:15:00,WARNING,web,High memory usage,YES
+810,2026-11-09 12:22:00,INFO,authentication,Backup completed,YES
+811,2026-11-17 00:47:00,WARNING,web,High memory usage,YES
+812,2026-11-18 18:22:00,INFO,payment,Request completed,YES
+813,2026-11-07 14:59:00,INFO,authentication,Server started,YES
+814,2026-11-14 16:06:00,INFO,web,Request completed,YES
+815,2026-11-04 16:16:00,INFO,payment,Backup completed,YES
+816,2026-11-16 07:48:00,ERROR,payment,Authentication failed,YES
+817,2026-11-01 15:07:00,WARNING,payment,High memory usage,YES
+818,2026-11-08 21:44:00,INFO,database,Request completed,YES
+819,2026-11-12 16:34:00,INFO,web,Request completed,YES
+820,2026-11-03 12:43:00,INFO,payment,Server started,YES
+821,2026-11-06 15:20:00,WARNING,payment,High memory usage,YES
+822,2026-11-09 05:47:00,ERROR,database,Authentication failed,YES
+823,2026-11-08 23:15:00,WARNING,payment,High memory usage,YES
+824,2026-11-08 19:22:00,INFO,database,Server started,YES
+825,2026-11-03 21:42:00,INFO,authentication,Server started,YES
+826,2026-11-18 01:54:00,ERROR,authentication,File not found,YES
+827,2026-11-16 18:55:00,WARNING,payment,CPU usage is high,YES
+828,2026-11-17 08:25:00,INFO,database,User logged in,YES
+829,2026-11-14 15:34:00,INFO,web,Request completed,YES
+830,2026-11-06 14:07:00,INFO,authentication,Request completed,YES
+831,2026-11-01 21:13:00,WARNING,authentication,Slow response detected,YES
+832,2026-11-12 19:55:00,INFO,payment,User logged in,YES
+833,2026-11-08 08:30:00,INFO,payment,Request completed,YES
+834,2026-11-14 06:26:00,INFO,payment,Request completed,YES
+835,2026-11-09 14:11:00,ERROR,database,Payment processing failed,YES
+836,2026-11-09 07:35:00,ERROR,authentication,Authentication failed,YES
+837,2026-11-05 15:51:00,INFO,web,User logged in,YES
+838,2026-11-05 20:33:00,INFO,payment,Backup completed,YES
+839,2026-11-18 18:03:00,INFO,authentication,Server started,YES
+840,2026-11-02 06:52:00,WARNING,payment,CPU usage is high,YES
+841,2026-11-04 14:47:00,ERROR,payment,File not found,YES
+842,2026-11-18 17:59:00,INFO,payment,Request completed,YES
+843,2026-11-04 11:55:00,INFO,database,User logged in,YES
+844,2026-11-10 11:20:00,ERROR,authentication,Authentication failed,YES
+845,2026-11-13 19:18:00,ERROR,authentication,Payment processing failed,YES
+846,2026-11-11 13:40:00,ERROR,authentication,Database connection failed,YES
+847,2026-11-11 07:20:00,INFO,payment,Request completed,YES
+848,2026-11-13 08:56:00,WARNING,authentication,CPU usage is high,YES
+849,2026-11-17 14:26:00,WARNING,database,High memory usage,YES
+850,2026-11-05 23:15:00,ERROR,payment,Database connection failed,YES
+851,2026-11-13 03:06:00,INFO,web,Backup completed,YES
+852,2026-11-01 12:33:00,INFO,web,Server started,YES
+853,2026-11-05 02:41:00,INFO,authentication,Request completed,YES
+854,2026-11-10 14:40:00,INFO,database,User logged in,YES
+855,2026-11-06 00:02:00,INFO,payment,Request completed,YES
+856,2026-11-15 17:59:00,ERROR,payment,Authentication failed,YES
+857,2026-11-18 05:37:00,INFO,authentication,Backup completed,YES
+858,2026-11-18 09:58:00,INFO,payment,Backup completed,YES
+859,2026-11-03 14:19:00,INFO,payment,Backup completed,YES
+860,2026-11-10 00:00:00,INFO,database,Request completed,YES
+861,2026-11-18 00:44:00,INFO,authentication,Backup completed,YES
+862,2026-11-14 09:38:00,INFO,database,Server started,YES
+863,2026-11-07 13:56:00,INFO,authentication,Backup completed,YES
+864,2026-11-13 12:14:00,INFO,payment,Server started,YES
+865,2026-11-08 16:48:00,INFO,payment,Request completed,YES
+866,2026-11-18 08:26:00,WARNING,database,High memory usage,YES
+867,2026-11-10 03:40:00,INFO,authentication,Backup completed,YES
+868,2026-11-16 06:20:00,INFO,web,User logged in,YES
+869,2026-11-18 00:11:00,INFO,web,Request completed,YES
+870,2026-11-15 23:00:00,INFO,database,Server started,YES
+871,2026-11-16 06:21:00,INFO,authentication,Request completed,YES
+872,2026-11-16 11:29:00,ERROR,web,File not found,YES
+873,2026-11-05 01:17:00,INFO,authentication,Server started,YES
+874,2026-11-06 06:57:00,INFO,payment,Backup completed,YES
+875,2026-11-04 22:15:00,ERROR,authentication,Authentication failed,YES
+876,2026-11-02 06:29:00,INFO,web,User logged in,YES
+877,2026-11-10 10:10:00,INFO,web,Server started,YES
+878,2026-11-10 06:23:00,INFO,web,User logged in,YES
+879,2026-11-08 20:27:00,ERROR,payment,Database connection failed,YES
+880,2026-11-09 18:07:00,INFO,authentication,User logged in,YES
+881,2026-11-02 18:50:00,INFO,authentication,User logged in,YES
+882,2026-11-03 07:10:00,INFO,authentication,Server started,YES
+883,2026-11-11 20:03:00,WARNING,web,CPU usage is high,YES
+884,2026-11-18 03:08:00,WARNING,authentication,High memory usage,YES
+885,2026-11-18 20:48:00,INFO,payment,Backup completed,YES
+886,2026-11-01 22:24:00,WARNING,payment,Slow response detected,YES
+887,2026-11-02 15:45:00,INFO,authentication,Request completed,YES
+888,2026-11-16 06:36:00,INFO,database,Request completed,YES
+889,2026-11-15 08:55:00,INFO,database,Server started,YES
+890,2026-11-15 09:52:00,INFO,payment,Request completed,YES
+891,2026-11-17 12:46:00,INFO,database,Server started,YES
+892,2026-11-12 19:15:00,WARNING,payment,Slow response detected,YES
+893,2026-11-18 12:12:00,INFO,authentication,User logged in,YES
+894,2026-11-11 13:41:00,WARNING,payment,High memory usage,YES
+895,2026-11-03 01:53:00,INFO,database,User logged in,YES
+896,2026-11-07 03:31:00,ERROR,database,Database connection failed,YES
+897,2026-11-13 21:31:00,INFO,payment,Server started,YES
+898,2026-11-03 00:59:00,INFO,database,Backup completed,YES
+899,2026-11-03 14:51:00,ERROR,web,File not found,YES
+900,2026-11-14 11:50:00,WARNING,web,Slow response detected,YES
+901,2026-11-02 23:04:00,INFO,payment,Server started,YES
+902,2026-11-17 03:06:00,ERROR,database,Authentication failed,YES
+903,2026-11-17 21:15:00,INFO,database,Backup completed,YES
+904,2026-11-12 21:29:00,WARNING,authentication,High memory usage,YES
+905,2026-11-06 17:25:00,INFO,payment,User logged in,YES
+906,2026-11-15 11:57:00,INFO,payment,Request completed,YES
+907,2026-11-14 20:27:00,ERROR,payment,Payment processing failed,YES
+908,2026-11-07 12:49:00,WARNING,payment,CPU usage is high,YES
+909,2026-11-15 12:00:00,ERROR,web,File not found,YES
+910,2026-11-17 04:56:00,WARNING,payment,High memory usage,YES
+911,2026-11-08 06:54:00,INFO,payment,Server started,YES
+912,2026-11-09 17:32:00,ERROR,database,Database connection failed,YES
+913,2026-11-12 04:08:00,INFO,payment,Request completed,YES
+914,2026-11-08 07:16:00,ERROR,payment,Database connection failed,YES
+915,2026-11-07 23:04:00,WARNING,payment,CPU usage is high,YES
+916,2026-11-04 19:41:00,INFO,payment,Server started,YES
+917,2026-11-13 02:49:00,WARNING,web,CPU usage is high,YES
+918,2026-11-14 13:59:00,INFO,web,User logged in,YES
+919,2026-11-01 20:49:00,WARNING,authentication,High memory usage,YES
+920,2026-11-02 10:34:00,INFO,database,Request completed,YES
+921,2026-11-08 04:03:00,INFO,authentication,Backup completed,YES
+922,2026-11-17 02:14:00,ERROR,authentication,File not found,YES
+923,2026-11-05 04:21:00,ERROR,web,Authentication failed,YES
+924,2026-11-02 17:25:00,WARNING,payment,High memory usage,YES
+925,2026-11-14 22:08:00,INFO,database,Backup completed,YES
+926,2026-11-16 12:41:00,WARNING,database,Slow response detected,YES
+927,2026-11-17 07:15:00,WARNING,web,CPU usage is high,YES
+928,2026-11-11 21:59:00,ERROR,web,Database connection failed,YES
+929,2026-11-14 11:22:00,WARNING,database,CPU usage is high,YES
+930,2026-11-01 09:10:00,INFO,payment,Backup completed,YES
+931,2026-11-15 01:59:00,WARNING,database,High memory usage,YES
+932,2026-11-05 23:54:00,WARNING,web,High memory usage,YES
+933,2026-11-08 19:59:00,WARNING,database,CPU usage is high,YES
+934,2026-11-04 09:28:00,INFO,authentication,Server started,YES
+935,2026-11-18 06:13:00,INFO,payment,Backup completed,YES
+936,2026-11-05 22:44:00,WARNING,web,CPU usage is high,YES
+937,2026-11-17 01:16:00,WARNING,database,High memory usage,YES
+938,2026-11-09 01:29:00,INFO,web,Server started,YES
+939,2026-11-09 21:54:00,INFO,payment,Server started,YES
+940,2026-11-13 07:24:00,INFO,web,Request completed,YES
+941,2026-11-18 02:11:00,INFO,database,Backup completed,YES
+942,2026-11-01 01:15:00,WARNING,payment,CPU usage is high,YES
+943,2026-11-06 00:22:00,INFO,payment,Request completed,YES
+944,2026-11-08 16:17:00,WARNING,web,Slow response detected,YES
+945,2026-11-13 00:35:00,INFO,payment,User logged in,YES
+946,2026-11-13 21:08:00,INFO,web,Backup completed,YES
+947,2026-11-08 13:15:00,INFO,database,Backup completed,YES
+948,2026-11-11 14:34:00,ERROR,database,Payment processing failed,YES
+949,2026-11-18 21:51:00,WARNING,database,High memory usage,YES
+950,2026-11-17 04:27:00,INFO,database,User logged in,YES
+951,2026-11-18 17:46:00,INFO,web,User logged in,YES
+952,2026-11-05 23:01:00,INFO,payment,Backup completed,YES
+953,2026-11-10 14:47:00,ERROR,payment,Payment processing failed,YES
+954,2026-11-04 04:11:00,ERROR,web,File not found,YES
+955,2026-11-08 19:14:00,WARNING,database,Slow response detected,YES
+956,2026-11-03 22:49:00,INFO,authentication,User logged in,YES
+957,2026-11-16 22:41:00,INFO,payment,User logged in,YES
+958,2026-11-16 15:08:00,ERROR,database,Payment processing failed,YES
+959,2026-11-14 00:59:00,INFO,payment,Backup completed,YES
+960,2026-11-07 06:04:00,INFO,database,Backup completed,YES
+961,2026-11-16 22:20:00,ERROR,authentication,Payment processing failed,YES
+962,2026-11-02 19:47:00,INFO,authentication,Request completed,YES
+963,2026-11-18 16:41:00,INFO,web,Server started,YES
+964,2026-11-02 07:33:00,INFO,authentication,Server started,YES
+965,2026-11-17 20:03:00,WARNING,database,CPU usage is high,YES
+966,2026-11-10 09:29:00,INFO,database,Backup completed,YES
+967,2026-11-02 22:33:00,INFO,database,Backup completed,YES
+968,2026-11-15 02:46:00,ERROR,web,Payment processing failed,YES
+969,2026-11-18 04:25:00,ERROR,authentication,File not found,YES
+970,2026-11-06 14:37:00,INFO,database,Backup completed,YES
+971,2026-11-11 22:41:00,INFO,database,Server started,YES
+972,2026-11-15 20:23:00,INFO,web,Backup completed,YES
+973,2026-11-17 19:10:00,WARNING,authentication,Slow response detected,YES
+974,2026-11-06 10:36:00,INFO,database,User logged in,YES
+975,2026-11-06 22:03:00,ERROR,authentication,File not found,YES
+976,2026-11-15 09:40:00,INFO,database,Server started,YES
+977,2026-11-07 00:39:00,ERROR,payment,Database connection failed,YES
+978,2026-11-16 17:51:00,INFO,web,Backup completed,YES
+979,2026-11-16 14:26:00,INFO,authentication,Server started,YES
+980,2026-11-01 07:56:00,WARNING,payment,Slow response detected,YES
+981,2026-11-07 01:11:00,WARNING,database,High memory usage,YES
+982,2026-11-02 04:54:00,WARNING,web,Slow response detected,YES
+983,2026-11-10 10:58:00,WARNING,web,High memory usage,YES
+984,2026-11-06 05:43:00,INFO,payment,User logged in,YES
+985,2026-11-12 01:05:00,ERROR,payment,File not found,YES
+986,2026-11-13 02:48:00,INFO,authentication,Server started,YES
+987,2026-11-05 03:44:00,INFO,payment,Request completed,YES
+988,2026-11-17 06:44:00,INFO,database,Server started,YES
+989,2026-11-17 02:30:00,INFO,payment,Backup completed,YES
+990,2026-11-11 08:33:00,WARNING,payment,High memory usage,YES
+991,2026-11-16 16:46:00,WARNING,authentication,CPU usage is high,YES
+992,2026-11-08 22:18:00,ERROR,database,Database connection failed,YES
+993,2026-11-15 20:50:00,INFO,web,User logged in,YES
+994,2026-11-14 13:02:00,ERROR,payment,File not found,YES
+995,2026-11-07 00:40:00,WARNING,database,Slow response detected,YES
+996,2026-11-03 09:19:00,INFO,payment,Server started,YES
+997,2026-11-11 10:25:00,INFO,web,User logged in,YES
+998,2026-11-11 21:30:00,INFO,authentication,Server started,YES
+999,2026-11-16 04:40:00,WARNING,authentication,Slow response detected,YES
+1000,2026-11-15 13:59:00,ERROR,web,File not found,YES
